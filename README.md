@@ -1,5 +1,5 @@
 # Joshua Evans
-[![Static Badge](https://img.shields.io/badge/Linked-In-blue?style=flat&labelColor=white&color=%230A66C2)](www.linkedin.com/in/joshgevans)
+[![Static Badge](https://img.shields.io/badge/Linked-In-blue?style=flat&labelColor=white&color=%230A66C2)](https://www.linkedin.com/in/joshgevans)
 <!--
 **joshua-Evans-1/joshua-Evans-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
