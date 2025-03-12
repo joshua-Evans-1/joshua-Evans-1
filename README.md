@@ -1,5 +1,6 @@
-<h1 style="text-align: center;">Joshua Evans</h1>
-
+<div style="text-align: center;">
+# Joshua Evans
+</div>
 
 [![Static Badge](https://img.shields.io/badge/Linked-In-blue?style=flat&labelColor=white&color=%230A66C2)](https://www.linkedin.com/in/joshgevans)
 <!--
