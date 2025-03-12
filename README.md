@@ -1,4 +1,4 @@
-# Joshua Evans
+<h1 style="align-items: center;">Joshua Evans</h1>
 [![Static Badge](https://img.shields.io/badge/Linked-In-blue?style=flat&labelColor=white&color=%230A66C2)](https://www.linkedin.com/in/joshgevans)
 <!--
 **joshua-Evans-1/joshua-Evans-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
