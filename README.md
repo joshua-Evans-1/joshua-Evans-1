@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   
-  # Joshua Evans
+  Joshua Evans
 
 </div>
 
