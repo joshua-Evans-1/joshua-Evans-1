@@ -1,4 +1,4 @@
-<h1 style="align-text: center;">Joshua Evans</h1>
+<h1 style="text-align: center;">Joshua Evans</h1>
 
 
 [![Static Badge](https://img.shields.io/badge/Linked-In-blue?style=flat&labelColor=white&color=%230A66C2)](https://www.linkedin.com/in/joshgevans)
