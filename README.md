@@ -7,7 +7,10 @@
 
 </div>
 
-Hi i am Joshua Evans a software engineer from Roseville MN, I graduated from Metropolitan State University in the Fall of 2024.
+## Intro
+Hi i am Joshua Evans a Software Engineer from Roseville MN, I graduated from Metropolitan State University in the Fall of 2024 with a bachelors of science in computer science. I enjoy creating configuring and deploying different software and hardware configurations and I am a huge proponent of free and open source software.
+
+##
 
 
 
