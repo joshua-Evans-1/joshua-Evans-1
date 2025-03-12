@@ -4,10 +4,12 @@
 
 
   [![Static Badge](https://img.shields.io/badge/Linked-In-blue?style=plastic&labelColor=white&color=%230A66C2)](https://www.linkedin.com/in/joshgevans)  [![Static Badge](https://img.shields.io/badge/%20email--blue?style=plastic&logo=minutemailer&logoColor=white&labelColor=blue)](mailto:joshgevans222@gmail.com) [![Static Badge](https://img.shields.io/badge/github--white?style=plastic&logo=github&logoColor=black&labelColor=white)](https://github.com/joshua-Evans-1) 
-  
-  SWE
 
 </div>
+
+Hi i am Joshua Evans a software engineer from Roseville MN, I graduated from Metropolitan State University in the Fall of 2024.
+
+
 
 <!--
 **joshua-Evans-1/joshua-Evans-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
