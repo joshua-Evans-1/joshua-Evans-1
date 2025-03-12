@@ -3,7 +3,7 @@
   # Joshua Evans
 
 
-  [![Static Badge](https://img.shields.io/badge/Linked-In-blue?style=plastic&labelColor=white&color=%230A66C2)](https://www.linkedin.com/in/joshgevans)  [![Static Badge](![Static Badge](https://img.shields.io/badge/%20email--blue?style=plastic&logo=minutemailer&logoColor=white&labelColor=blue))](mailto:joshgevans222@gmail.com) 
+  [![Static Badge](https://img.shields.io/badge/Linked-In-blue?style=plastic&labelColor=white&color=%230A66C2)](https://www.linkedin.com/in/joshgevans)  [![Static Badge](https://img.shields.io/badge/%20email--blue?style=plastic&logo=minutemailer&logoColor=white&labelColor=blue)](mailto:joshgevans222@gmail.com) 
 
 </div>
 
